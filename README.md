@@ -10,3 +10,5 @@ A multi-level interactive educational VR  experience designed for the HTC Vive.
 ![Forest Level](Screenshots/ScreenshotSky.png "Forest Level")
 ![Forest Level](Screenshots/ScreenshotTutorial.png "Forest Level")
 ![Forest Level](Screenshots/ScreenshotUnderground.png "Forest Level")
+
+By Sam Kavanagh
